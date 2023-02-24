@@ -39,7 +39,9 @@ Repository | Description
 [**Infoga - Email OSINT**](https://github.com/m4ll0k/Infoga)    |  A tool gathering email accounts informations from different public sources.
 [**ReconDog**](https://github.com/s0md3v/ReconDog)    | Main Features = Wizard + CLA interface, extracts targets from STDIN (piped input) and act upon them. 
 [**Striker**](https://github.com/s0md3v/Striker)    | Recon & Vulnerability Scanning Suite.
-[**SecretFinder**](https://github.com/m4ll0k/SecretFinder)    | Written to discover sensitive data like apikeys, accesstoken, authorizations, jwt in JavaScript files.
+[**SecretFinder**](https://github.com/m4ll0k/SecretFinder)    | Written to discover sensitive data like apikeys, accesstoken, authorizations, jwt in
+[**Zeebsploit**](https://github.com/jaxBCD/Zeebsploit)    | enumeration and information disclosure tool.
+JavaScript files.
 [**Port Scanner**](https://github.com/bao7uo/PortRanger)    | Converts an unordered list of ports on separate lines in a numerical order.
 [**Breacher**](https://github.com/s0md3v/Breacher)    | A script to find admin login pages and EAR vulnerabilites.
 [**Git-Secret**](https://github.com/daffainfo/Git-Secret)   | Go scripts for finding sensitive data like API key / some keywords in the github repository
