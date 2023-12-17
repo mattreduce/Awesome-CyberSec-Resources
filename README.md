@@ -231,3 +231,12 @@ Repository | Description
 [**The Exploit Database Git Repository**](https://github.com/offensive-security/exploitdb) | This is an official repository of The Exploit Database, a project sponsored by Offensive Security.
 [**Exploits & Shellcodes**](https://github.com/offensive-security/exploitdb) | ExploitDB shellcodes.
 [**Papers**](https://github.com/offensive-security/exploitdb-papers) | ExploitDB Papers.
+
+# Threat Intelligence 📓
+Repository | Description
+---- | ---- 
+[**Awesome Synapse**](https://github.com/EXC3L-ONE/awesome-synapse) | A semi-comprehensive list of tools, blogs and other resources useful for users of the Synapse platform.
+[**Breach Report Collection**](https://github.com/BushidoUK/Breach-Report-Collection) | A collection of companies that disclose adversary TTPs after they have been breached
+[**The DFIR Report**](https://thedfirreport.com/) | Real Intrusions by Real Attackers, The Truth Behind the Intrusion
+[**Sources & Methods**](https://sourcesmethods.com/?source=Awesome-CyberSec-Resources) | Blog and monthly digest of Cyber Threat Intelligence (CTI) information sources, tools, articles, events, and helpful tips.
+
